@@ -5,7 +5,7 @@
 - clone the repo
 - cd poll-widget-app
 - cd examples
-- launch page-one.html & page-two.html
+- [page-one.html](https://sivaranjanisure.github.io/poll-widget-repo/examples/page-one.html) & [page-two.html](https://sivaranjanisure.github.io/poll-widget-repo/examples/page-two.html)
 
 ### Run the App
 
