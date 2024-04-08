@@ -2,13 +2,13 @@
 
 ## Run the Examples
 
+- clone the repo
+- cd poll-widget-app
 - cd examples
 - launch page-one.html & page-two.html
 
-## Run the App
+### Run the App
 
-- clone the repo
-- cd poll-widget-app
 - `npm install` & `npm start`
 - to build `npm run build`
 
